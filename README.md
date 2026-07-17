@@ -10,6 +10,8 @@ https://mcp.hookami.com/mcp
 
 Remote MCP server · Streamable HTTP · OAuth sign-in · read-only
 
+**Website:** [hookami.ai](https://hookami.ai) · **Setup page:** [hookami.ai/anywhere](https://hookami.ai/anywhere) · **Create a free account:** [hookami.ai/signup](https://hookami.ai/signup)
+
 ---
 
 ## What you can ask
