@@ -2,7 +2,7 @@
 
 **Live YouTube trend intelligence, inside ChatGPT, Claude, and any MCP client.**
 
-Sensei is Hookami's creative-strategy layer for video creators. This MCP server connects it to the AI assistant you already use — so instead of guessing what to film, your assistant can check what is *actually* rising on YouTube right now, how fast a topic is moving, which videos are overperforming, and whether you're early or late.
+Hookami is an AI workspace for YouTube creators that brings together current trend research, personalized creator intelligence, scripts, thumbnails, and pre-publish video analysis. Sensei connects that research to creative decisions. This MCP server connects it to the AI assistant you already use — so instead of guessing what to film, your assistant can check what is *actually* rising on YouTube right now, how fast a topic is moving, which videos are overperforming, and whether you're early or late.
 
 ```
 https://mcp.hookami.com/mcp
@@ -22,7 +22,18 @@ Remote MCP server · Streamable HTTP · OAuth sign-in · read-only
 - *"What's rising in gaming this week, and what should I film next?"*
 - *"Give me the full picture on 'dopamine detox' — momentum, examples, angles."*
 
-Sensei answers from Hookami's live signal — a curated pool of trend-setting creators tracked in near-real-time — and always says so plainly when a signal is early or thin. No invented metrics.
+The assistant can consult Hookami's current trend research, video examples and recent sources. Check the source dates and supporting videos when choosing your angle. The research is tied to Hookami's tracked creator activity.
+
+## The Hookami workspace
+
+Research in this connector can support the next step in [Hookami](https://hookami.ai/how-it-works):
+
+- [Creator Lens](https://hookami.ai/features/creator-lens): channel, video and niche research, Channel DNA, related opportunities and personal context for Sensei.
+- [Blueprint](https://hookami.ai/features/blueprint) and [Forge](https://hookami.ai/features/forge): study a video's creative structure and build an original script.
+- [Frame Studio](https://hookami.ai/features/frame-studio): generate images from prompts and references, analyze a frame or compare two or three options.
+- [Pre-Publish](https://hookami.ai/features/pre-publish): review an actual video and compare its edited versions.
+
+These are web-app capabilities. The MCP connector retrieves research and product information; it does not generate images or run every Hookami workspace. The ElevenLabs tool provides voiceover guidance, not audio generation.
 
 ## Connect
 
